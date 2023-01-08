@@ -11,5 +11,5 @@ A more easily shared optiion would be HTML reports, rendered in R markdown:
   <li>Easy to follow statistical analysis and machine learning through a document format</li></ul>
 <br>
 I can provide examples of the above, devoid of sensitive data, on request.<br>
--Ryan<br>
+- Ryan<br>
 kemp.ryanj@gmail.com
